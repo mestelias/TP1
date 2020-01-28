@@ -1,0 +1,8 @@
+window.addEventListener("load", event => main());
+
+const main = () => {
+	
+	console.log("MAIN");
+	
+	
+}
